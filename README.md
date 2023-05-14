@@ -5,6 +5,7 @@
 <div style="display: inline_block">
 <img align="right" height="275px"  alt="Tv" src="https://cdn.discordapp.com/attachments/1107396999306825838/1107397207906320494/image_3.png">
 <br>
+<br>
  <li><b>Nome: </b> Bruno </li>
  <li><b>Pronome:</b> Ele/Dele </li>
  <li><b>Loves:</b> Conhecimento, Música, Osu </li>
