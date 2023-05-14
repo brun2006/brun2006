@@ -1,3 +1,6 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/854206587991752737/1107426042412544090/749a6eacb3d3f1777541b292dfff3250.png)](https://rishavchanda.io)
+
+
 <h1 align="center";> ↝ 🍒 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 🍒 ↜ </h1>
 
  
