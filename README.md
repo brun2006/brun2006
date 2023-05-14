@@ -3,7 +3,7 @@
  
  <h2> 🚀 𝘼𝙗𝙤𝙪𝙩 </h2>
 <div style="display: inline_block">
-<img align="right" height="200px" alt="Tv" src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif">
+<img align="right" height="275px"  alt="Tv" src="https://cdn.discordapp.com/attachments/1107396999306825838/1107397207906320494/image_3.png">
 <br>
  <li><b>Nome: </b> Bruno </li>
  <li><b>Pronome:</b> Ele/Dele </li>
@@ -19,7 +19,7 @@
 <div style="display: inline_block" align="center">
 
 <br>
-<img align="right" height="250px" alt="gif" src="https://i.pinimg.com/originals/6a/53/e9/6a53e9a98b7f6a50fa463093f79cbc39.gif">
+<img align="left" height="250px" alt="gif" src="https://cdn.discordapp.com/attachments/1107396999306825838/1107407281479487623/image_3.png">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -38,6 +38,8 @@
 <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
+<br>
+<br>
   <h2 align="left"> 🔭 𝘼𝙘𝙩𝙞𝙤𝙣 </h2>
 </div>
 <br>
@@ -49,6 +51,6 @@
 </div>
 <br>
  <div style="display: inline_block">
-  <img height="400px"  alt="C++" src="https://i.pinimg.com/564x/91/7b/d7/917bd7ab61620a055bfd1d59e8e70f95.jpg"/>
+  <img height="400px" alt="C++" src="https://i.pinimg.com/564x/91/7b/d7/917bd7ab61620a055bfd1d59e8e70f95.jpg"/>
 </div>
 
