@@ -49,12 +49,12 @@
 <br>
 <div align="center">
 <div style="display: inline_block">
-<img height="150px"  alt="bars" src="https://github-readme-stats.vercel.app/api?username=brun2006&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-<img height="150px" alt="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun2006&layout=compact&theme=midnight-purple"/>
+<img height="125px"  alt="bars" src="https://github-readme-stats.vercel.app/api?username=brun2006&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+<img height="125px" alt="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun2006&layout=compact&theme=midnight-purple"/>
 	</div>
 <br>
 <br>
-        <p>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</p>
+	<p> ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂ </p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
