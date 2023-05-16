@@ -9,12 +9,12 @@
 <img align="right" height="275px"  alt="Tv" src="https://cdn.discordapp.com/attachments/1107396999306825838/1107397207906320494/image_3.png">
 <br>
 <br>
- <li><b>Nome: </b> Bruno </li>
- <li><b>Pronome:</b> Ele/Dele </li>
- <li><b>Loves:</b> Conhecimento, Música, Osu </li>
+ <li><b>Name: </b> Bruno </li>
+ <li><b>Gender:</b> He/Him </li>
+ <li><b>Loves:</b> Knowledge, Music, Osu </li>
  <li><b>Linktree:</b> https://linktr.ee/bruninho.png </li> 
  <li><b>Hobbies:</b> Tech Stuff, Web Development, Computer Technician</li>
- <li><b>Estudando:</b> Japanese, Robótica, Engenharia de Dados </li>
+ <li><b>Learning:</b> Japanese, Robotic, Data Engineering </li>
 <br>
 <br>
   <h2>🦊 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 </h2>
@@ -48,8 +48,13 @@
 </div>
 <br>
 <div align="center">
-<img height="175px"  alt="bars" src="https://github-readme-stats.vercel.app/api?username=brun2006&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+<div style="display: inline_block">
+<img height="150px"  alt="bars" src="https://github-readme-stats.vercel.app/api?username=brun2006&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+<img height="150px" alt="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun2006&layout=compact&theme=midnight-purple"/>
+	</div>
 <br>
+<br>
+        <p>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
